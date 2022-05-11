@@ -17,3 +17,9 @@
 + SRTM
 + 內政部DTM
 + 
+
+### 海岸線/邊界
++ 全球自我一致性分層高解析度地理資料庫，(Global Self-consistent, Hierarchical, High-resolution Geography Database, GSHHG) 
+  + 網址: https://www.ngdc.noaa.gov/mgg/shorelines/gshhs.html
+  + 文獻: Wessel, P., & Smith, W. H. (1996). A global, self‐consistent, hierarchical, high‐resolution shoreline database. Journal of Geophysical Research: Solid Earth, 101(B4), 8741-8743.
+  + 最新更新版本: GSHHG data version 2.3.7 (June 15, 2017) 
