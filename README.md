@@ -29,7 +29,7 @@
       + 垂直基準: 由於探測任務的不同及人力有限，測量的高程基準皆為當時當地的海水面，亦未做潮汐校正。
 + 內政部DTM
 + GMT
-  + 基本上是從各大平台蒐集資料後一併轉換為GTM自己的命名格式，存成*.nc檔案，其中高程是用短整數儲存。所以檔案小很多。
+  + 基本上是從各大平台蒐集資料後一併轉換為GTM自己的命名格式，存成*.nc檔案，其中高程是用短整數(short int，等同於16-bits integer)儲存。所以檔案小很多。
   + REF: https://docs.generic-mapping-tools.org/6.0/datasets/earth_relief.html
 
 ### 海岸線/邊界
