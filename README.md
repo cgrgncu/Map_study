@@ -5,16 +5,17 @@
 + 1-degree (~110 kilometers)
 + 7.5-arc-minutes	(~14 kilometers)
 + 1-arc-minutes	(~1.8 kilometers)
-+ 30-arc-second (~1 kilometers)
++ 30-arc-seconds (~1 kilometers)
 + 15-arc-seconds (~450 meters)
-+ 7.5-arc-second (~225 meters)
++ 7.5-arc-seconds (~225 meters)
 + 3-arc-seconds	(~90 meters)
-+ 1/3-arc-second (~10 meters)	
-+ 1/9-arc-second (~3.4 meters)
++ 1/3-arc-seconds (~10 meters)	
++ 1/9-arc-second s(~3.4 meters)
 
 ### 知名的資料來源
 + ETOPO1，1-arc-minutes (~1.8 kilometers)
-+ SRTM
++ SRTM15+ V2.3，15-arc-seconds (~450 meters)
+  + 網頁XYZ萃取工具: https://topex.ucsd.edu/cgi-bin/get_srtm15.cgi 
 + 內政部DTM
 + 
 
