@@ -16,6 +16,8 @@
 + ETOPO1，1-arc-minutes (~1.8 kilometers)，有水深資料
 + SRTM15+ V2.3，15-arc-seconds (~450 meters)，有水深資料
   + 網頁XYZ萃取工具: https://topex.ucsd.edu/cgi-bin/get_srtm15.cgi 
+    + 其實可以用GET方法取得資料，例如: https://topex.ucsd.edu/cgi-bin/get_srtm15.cgi?west=119.0&east=119.2&south=21&north=21.1 
+    + 看起來XYZ點沒有落在整數經緯度上，應該是Cell註冊。
 + 內政部DTM
 + 
 
