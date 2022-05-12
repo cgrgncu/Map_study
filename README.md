@@ -13,8 +13,8 @@
 + 1/9-arc-second s(~3.4 meters)
 
 ### 知名的資料來源
-+ ETOPO1，1-arc-minutes (~1.8 kilometers)
-+ SRTM15+ V2.3，15-arc-seconds (~450 meters)
++ ETOPO1，1-arc-minutes (~1.8 kilometers)，有水深資料
++ SRTM15+ V2.3，15-arc-seconds (~450 meters)，有水深資料
   + 網頁XYZ萃取工具: https://topex.ucsd.edu/cgi-bin/get_srtm15.cgi 
 + 內政部DTM
 + 
