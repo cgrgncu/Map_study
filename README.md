@@ -14,10 +14,18 @@
 
 ### 知名的資料來源
 + ETOPO1，1-arc-minutes (~1.8 kilometers)，有水深資料
+  + GeoTiff格式
+    + 水平基準: 坐標系統為WGS84 ；
 + SRTM15+ V2.3，15-arc-seconds (~450 meters)，有水深資料
   + 網頁XYZ萃取工具: https://topex.ucsd.edu/cgi-bin/get_srtm15.cgi 
     + 其實可以用GET方法取得資料，例如: https://topex.ucsd.edu/cgi-bin/get_srtm15.cgi?west=119.0&east=119.2&south=21&north=21.1 
     + 看起來XYZ點沒有落在整數經緯度上，應該是Cell註冊。
++ 海洋學門資料庫(Ocean Data Bank, ODB)-網格化水深資料 
+  + 資料申請網頁: https://www.odb.ntu.edu.tw/odb-services/
+  + 申請資料基本費用500元。科技部計畫半價。
+  + 網格化資料內容依序為 經度 緯度 高程(公尺)值；
+    + 水平基準: 坐標系統為WGS84 ；
+    + 垂直基準: 由於探測任務的不同及人力有限，測量的高程基準皆為當時當地的海水面，亦未做潮汐校正。
 + 內政部DTM
 + 
 
