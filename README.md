@@ -13,7 +13,7 @@
 + 1/9-arc-second s(~3.4 meters)
 
 ### 知名的資料來源
-+ ETOPO1，1-arc-minutes (~1.8 kilometers)，有水深資料
++ ETOPO 2022，15 Arc-Second  (~450 meters)，有水深資料
   + GeoTiff格式
     + 水平基準: 坐標系統為WGS84。
     + 垂直基準: 海平面，向上為正。
